@@ -32,6 +32,6 @@ public class loteria {
             }
             
         }
-        System.out.println("Voce perdeu , o numero era "+segredo);
+        System.out.println("Voce perdeu , o numero era :"+segredo);
     }
 }
