@@ -9,6 +9,7 @@ public class Enem {
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
         comandos cmd = new comandos();
+//        listas lst = new listas();
         String valor = null;
         String cursos = null;
         double nota1=0,
@@ -18,6 +19,6 @@ public class Enem {
                nota5=0;
                String media = null;
                float media2 = 0;
-        cmd.comandos(nota1, nota2, nota3, nota4, nota5, valor, media, cursos, nota2);        
+        cmd.comandos(nota1, nota2, nota3, nota4, nota5, valor, media, cursos, media2);        
     }
 }
