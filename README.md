@@ -1,5 +1,5 @@
 # Programação de Computadores 2
-Aulas da Disciplica Programação de Computadores - 2 UFOP
+Aulas da Disciplina Programação de Computadores - 2 UFOP
 
 Linguagem utilizada : java
 
